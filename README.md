@@ -2,7 +2,7 @@
 Top down rogue like shooter made in CodeSkulptor. Created to demonstrate object oriented programming.
 
 ## Setup
-Upload code to http://www.codeskulptor.org/
+Upload code to http://www.codeskulptor.org/ and press the Run button.
 
 ## Controls
 WASD to move  
