@@ -1,5 +1,5 @@
 # wildbitdungeon
-Top down rogue like shooter made in CodeSkulptor. Created for a school project.
+Top down rogue like shooter made in CodeSkulptor. Created to demonstrate object oriented programming.
 
 ## Setup
 Upload code to http://www.codeskulptor.org/
